@@ -1,0 +1,32 @@
+h2 {
+    font-family: "Trebuchet MS", sans-serif;
+	margin: auto;
+	text-align: left;
+    color: white;
+}
+
+h3 {
+    font-family: "Trebuchet MS", sans-serif;
+	margin: auto;
+	text-align: left;
+    color: white;
+}
+
+h4 {
+    font-family: "Trebuchet MS", sans-serif;
+	margin: auto;
+	text-align: left;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+p {
+    font-family: "Trebuchet MS", sans-serif;
+	margin: auto;
+	text-align: left;
+    color: whitesmoke;
+}
+
+body {
+	background-color:darkslateblue;
+}
